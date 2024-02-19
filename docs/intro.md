@@ -1,7 +1,7 @@
 ---
 title: Curriculo
 sidebar_position: 1
-slug: /
+
 ---
 
 # Curriculo
